@@ -1,0 +1,24 @@
+[
+  {
+    "firstName": "sachin",
+    "middleName": "Kumar",
+    "lastName": "Sharma",
+    "email": "sachin.kumar@example.com",
+    "phoneNumber": "9834567890",
+    "role": "Subscriber",
+    "address": "Delhi",
+    "createdAt": "2023-02-01T10:00:00Z",
+    "updatedAt": "2023-03-01T11:30:00Z"
+  },
+  {
+    "firstName": "Ayushi",
+    "middleName": "Kumari",
+    "lastName": "Mittal",
+    "email": "Ayushi.Kumari@example.com",
+    "phoneNumber": "1987654321",
+    "role": "Admin",
+    "address": "Dholpur",
+    "createdAt": "2023-01-01T15:00:00Z",
+    "updatedAt": "2023-02-01T16:45:00Z"
+  }
+]
